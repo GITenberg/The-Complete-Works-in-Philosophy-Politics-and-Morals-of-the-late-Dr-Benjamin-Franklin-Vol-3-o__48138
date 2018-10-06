@@ -22,6 +22,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Complete Works in Philosophy, Politics and Morals of the late Dr. Benjamin
   Franklin, [Vol 3 of 3]
 url: http://www.gutenberg.org/ebooks/48138
